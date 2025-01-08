@@ -1,0 +1,27 @@
+*{
+	box-sizing: border-box;
+}
+
+html, body{
+	padding: 0;
+	margin: 0;
+}
+
+#page-content{
+	width: 600px;
+	margin: 0 auto;
+}
+
+#textarea{
+	width: 600px;
+	height: 600px;
+	background: #eee;
+	margin: 0;
+	padding: 50px;
+}
+
+.suggestion-button{
+	margin-top: 5px;
+	margin-right: 5px;
+	padding: 5px 10px;
+}

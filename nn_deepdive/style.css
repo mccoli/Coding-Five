@@ -1,0 +1,30 @@
+*{
+	box-sizing: border-box;
+}
+
+body{
+	margin:0;
+	overflow: hidden;
+}
+
+#nn-graph{
+	width: 100vw;
+	height: 80vh;
+}
+
+#controls{
+	width: 100vw;
+	height: 20vh;
+	background: #aaa;
+	padding: 10px;
+	display: flex;
+}
+
+fieldset{
+	overflow-y: auto;
+	flex-grow: 1;
+}
+
+fieldset label{
+	margin-right: 30px;
+}
