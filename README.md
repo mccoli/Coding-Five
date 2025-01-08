@@ -1,2 +1,4 @@
 # Coding-Five
-machine learning
+
+## about
+exercises in neural networks
